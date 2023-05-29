@@ -2213,7 +2213,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":1051.43143604817,
                  "id":44,
                  "name":"birds-1",
@@ -2234,13 +2233,13 @@
                          "value":"\/birds.mp3"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
-                 "width":2428.46872267195,
+                 "width":884.156328784005,
                  "x":-9.24092926003641,
                  "y":1330.96814547067
                 }, 
                 {
-                 "class":"area",
                  "height":127.911523310221,
                  "id":1,
                  "name":"website1",
@@ -2256,13 +2255,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":127.260431703969,
                  "x":384.298596499778,
                  "y":863.235950881647
                 }, 
                 {
-                 "class":"area",
                  "height":129.051017107854,
                  "id":5,
                  "name":"website2",
@@ -2278,13 +2277,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":127.117506201461,
                  "x":515.418636000097,
                  "y":959.991897529609
                 }, 
                 {
-                 "class":"area",
                  "height":127.259132367078,
                  "id":14,
                  "name":"website3",
@@ -2305,13 +2304,13 @@
                          "value":"Press SPACE to open Google Classroom"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":115.324320814977,
                  "x":1165.17334338047,
                  "y":896.363880731406
                 }, 
                 {
-                 "class":"area",
                  "height":128.274237743315,
                  "id":15,
                  "name":"website4",
@@ -2327,13 +2326,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96.3846098367213,
                  "x":1439.72313905949,
                  "y":895.745224650478
                 }, 
                 {
-                 "class":"area",
                  "height":126.966417451455,
                  "id":16,
                  "name":"website5",
@@ -2349,13 +2348,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96.0184966776733,
                  "x":1600.28898787097,
                  "y":896.163708013205
                 }, 
                 {
-                 "class":"area",
                  "height":128.248747879974,
                  "id":17,
                  "name":"website6",
@@ -2371,13 +2370,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":97.2750130121567,
                  "x":1758.39696000364,
                  "y":895.870296300606
                 }, 
                 {
-                 "class":"area",
                  "height":127.026412004776,
                  "id":25,
                  "name":"website7",
@@ -2393,13 +2392,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96.5116253737923,
                  "x":736.699478754994,
                  "y":2046.75638415711
                 }, 
                 {
-                 "class":"area",
                  "height":128.080824564881,
                  "id":26,
                  "name":"website8",
@@ -2415,13 +2414,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":95.7913213765903,
                  "x":863.870466486455,
                  "y":1984.23213553994
                 }, 
                 {
-                 "class":"area",
                  "height":126.886391403726,
                  "id":27,
                  "name":"website9",
@@ -2437,13 +2436,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":94.0595814394076,
                  "x":1023.96530816316,
                  "y":2080.51580658303
                 }, 
                 {
-                 "class":"area",
                  "height":125.028415548989,
                  "id":36,
                  "name":"website10",
@@ -2459,13 +2458,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":94.9568569361579,
                  "x":1472.06595127783,
                  "y":1409.41122982496
                 }, 
                 {
-                 "class":"area",
                  "height":127.68197972884,
                  "id":37,
                  "name":"website11",
@@ -2481,13 +2480,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96.5182076139234,
                  "x":1663.38701813308,
                  "y":1409.10885876004
                 }, 
                 {
-                 "class":"area",
                  "height":126.792584819867,
                  "id":38,
                  "name":"website12",
@@ -2503,13 +2502,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96.8087715019947,
                  "x":1855.79703472396,
                  "y":1409.58377054914
                 }, 
                 {
-                 "class":"area",
                  "height":78.197546551977,
                  "id":52,
                  "name":"website13",
@@ -2525,13 +2524,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64.0242412394311,
                  "x":1056.15561311764,
                  "y":1024.87659449685
                 }, 
                 {
-                 "class":"area",
                  "height":78.197546551977,
                  "id":53,
                  "name":"website14",
@@ -2547,13 +2546,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64.0242412394311,
                  "x":1920.82263900254,
                  "y":880.300684461601
                 }, 
                 {
-                 "class":"area",
                  "height":176.954,
                  "id":48,
                  "name":"fire",
@@ -2574,13 +2573,13 @@
                          "value":"\/fire.mp3"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":291.619,
                  "x":1540.68227122372,
                  "y":317.258701482809
                 }, 
                 {
-                 "class":"area",
                  "height":61.9469026548672,
                  "id":50,
                  "name":"exit-1",
@@ -2591,13 +2590,13 @@
                          "value":"#entry\/portal-1"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":63.8707195075031,
                  "x":2176.60638707195,
                  "y":929.203539823009
                 }, 
                 {
-                 "class":"area",
                  "height":61.9469026548672,
                  "id":51,
                  "name":"exit-2",
@@ -2608,13 +2607,13 @@
                          "value":"#entry\/portal-2"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":63.8707195075031,
                  "x":2078.36400469418,
                  "y":447.969369894388
                 }, 
                 {
-                 "class":"area",
                  "height":61.9469026548672,
                  "id":54,
                  "name":"exit-addon-1",
@@ -2625,13 +2624,13 @@
                          "value":"library.json"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":63.8707195075031,
                  "x":1152.1622443692,
                  "y":224.543506658098
                 }, 
                 {
-                 "class":"area",
                  "height":61.9469026548672,
                  "id":56,
                  "name":"exit-addon-2",
@@ -2642,13 +2641,13 @@
                          "value":"playground.json"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":63.8707195075031,
                  "x":2303.89142430959,
                  "y":1441.05188105524
                 }, 
                 {
-                 "class":"area",
                  "height":61.9469026548672,
                  "id":57,
                  "name":"exit-addon-3",
@@ -2659,13 +2658,13 @@
                          "value":"ocean.json"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":63.8707195075031,
                  "x":1344.82203027993,
                  "y":2145.09081321107
                 }, 
                 {
-                 "class":"area",
                  "height":61.9469026548672,
                  "id":64,
                  "name":"exit-addon-4",
@@ -2676,13 +2675,13 @@
                          "value":""
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":63.8707195075031,
                  "x":639.079373694258,
                  "y":2305.24536011877
                 }, 
                 {
-                 "class":"area",
                  "height":61.9469026548672,
                  "id":65,
                  "name":"exit-addon-5",
@@ -2693,13 +2692,13 @@
                          "value":""
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":63.8707195075031,
                  "x":96.7692510495567,
                  "y":1089.69950113861
                 }, 
                 {
-                 "class":"area",
                  "height":61.9469026548672,
                  "id":66,
                  "name":"exit-addon-6",
@@ -2710,76 +2709,131 @@
                          "value":""
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":63.8707195075031,
                  "x":32.1629374294961,
                  "y":831.985914635945
                 }, 
                 {
-                 "class":"area",
                  "height":42.7361710366662,
                  "id":59,
                  "name":"Addon1Pop",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":80.802833047451,
                  "x":1141.71330869654,
                  "y":148.364106613859
                 }, 
                 {
-                 "class":"area",
                  "height":46.6393250649226,
                  "id":60,
                  "name":"Addon2Pop",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":80.3872944645391,
                  "x":2294.40595957734,
                  "y":1360.70343853492
                 }, 
                 {
-                 "class":"area",
                  "height":45.9527208088996,
                  "id":58,
                  "name":"Addon3Pop",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":77.9115919909209,
                  "x":1338.09002606641,
                  "y":2066.35979279767
                 }, 
                 {
-                 "class":"area",
                  "height":45.354760385005,
                  "id":61,
                  "name":"Addon4Pop",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":95.5881509123429,
                  "x":544.16272615659,
                  "y":2226.03422235313
                 }, 
                 {
-                 "class":"area",
                  "height":44.825095838814,
                  "id":62,
                  "name":"Addon5Pop",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":79.1258958388138,
                  "x":23.9722020841321,
                  "y":997.442136365147
                 }, 
                 {
-                 "class":"area",
                  "height":48.2340377490878,
                  "id":63,
                  "name":"Addon6Pop",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":78.3249023014314,
                  "x":24.5351525339578,
                  "y":728.852841194984
+                }, 
+                {
+                 "height":1051.43,
+                 "id":67,
+                 "name":"birds-1",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.5
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"\/birds.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":1316.07450594227,
+                 "x":1090.0102852292,
+                 "y":1316.05070458404
+                }, 
+                {
+                 "height":823.246638370119,
+                 "id":68,
+                 "name":"birds-1",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.5
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"\/birds.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":224.049626485569,
+                 "x":882.202691001698,
+                 "y":1560.53287775891
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -3553,7 +3607,7 @@
          "y":0
         }],
  "nextlayerid":66,
- "nextobjectid":67,
+ "nextobjectid":69,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -3577,7 +3631,7 @@
          "value":"This map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.1",
  "tileheight":32,
  "tilesets":[
         {
@@ -61663,6 +61717,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":75
 }
