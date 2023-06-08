@@ -1685,6 +1685,114 @@
          "name":"floorLayer",
          "objects":[
                 {
+                 "height":734.166954314721,
+                 "id":65,
+                 "name":"birds-1",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.5
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"\/birds.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":1656.02788832487,
+                 "x":765.894685279188,
+                 "y":-24.4438832487309
+                }, 
+                {
+                 "height":1381.37923857868,
+                 "id":64,
+                 "name":"birds-1",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.5
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"\/birds.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":803.236010152284,
+                 "x":-15.8312030456853,
+                 "y":-25.7149999999998
+                }, 
+                {
+                 "height":759.763333333333,
+                 "id":62,
+                 "name":"birds-1",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.5
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"\/birds.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":267.453874788494,
+                 "x":844.170693739425,
+                 "y":1622.11833333333
+                }, 
+                {
+                 "height":1061.58228426396,
+                 "id":61,
+                 "name":"birds-1",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.5
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"\/birds.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":1307.63666666667,
+                 "x":1089.93166666667,
+                 "y":1320.11833333333
+                }, 
+                {
                  "height":1051.43143604817,
                  "id":44,
                  "name":"birds-1",
@@ -2168,60 +2276,6 @@
                  "width":78.6382509416187,
                  "x":1338.02173703148,
                  "y":2066.49426584873
-                }, 
-                {
-                 "height":1051.43,
-                 "id":61,
-                 "name":"birds-1",
-                 "properties":[
-                        {
-                         "name":"audioLoop",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"audioVolume",
-                         "type":"float",
-                         "value":0.5
-                        }, 
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"\/birds.mp3"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":1307.63666666667,
-                 "x":1089.93166666667,
-                 "y":1320.11833333333
-                }, 
-                {
-                 "height":759.763333333333,
-                 "id":62,
-                 "name":"birds-1",
-                 "properties":[
-                        {
-                         "name":"audioLoop",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"audioVolume",
-                         "type":"float",
-                         "value":0.5
-                        }, 
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"\/birds.mp3"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":224.306666666667,
-                 "x":867.013333333334,
-                 "y":1595.11833333333
                 }, 
                 {
                  "height":40.1972,
@@ -3012,7 +3066,7 @@
          "y":0
         }],
  "nextlayerid":61,
- "nextobjectid":64,
+ "nextobjectid":66,
  "orientation":"orthogonal",
  "properties":[
         {
